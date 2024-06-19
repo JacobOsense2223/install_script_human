@@ -1,3 +1,4 @@
+#!/bin/bash
 git clone https://github.com/lipku/metahuman-stream.git
 cd metahuman-stream
 conda create -n nerfstream python=3.10
